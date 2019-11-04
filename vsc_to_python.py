@@ -1,4 +1,5 @@
 print ('bbb')
-print ('ccccc')
+a=123
+print (a)
 print ('fgfdgfdg')
 print ('edit')
